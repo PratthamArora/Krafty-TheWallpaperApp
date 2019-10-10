@@ -25,7 +25,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.thewallpaperapp.ui.ListWallpapersActivity" />
         <activity android:name="com.example.thewallpaperapp.ui.ViewWallpaperActivity" />
-        <activity android:name="com.example.thewallpaperapp.MainActivity">
+        <activity android:name="com.example.thewallpaperapp.ui.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
